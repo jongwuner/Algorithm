@@ -23,4 +23,5 @@ int main()
 		a += j == -1;
 	}
 	printf("%d\n", a);
+	return 0;
 }
