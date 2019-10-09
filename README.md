@@ -10,7 +10,7 @@
 - 19.01.20부터 다시 시작. 스터디장.
 - 19.07.15 Code Force(19.08.07 안돼고있음.)
 - 19.10.07부터 다시 시작
-- 19.10.12 Codeforce 
+- 19.10.12 Codeforce 1st Competition
 
 # History
 - 14.03 C언어 공부시작
