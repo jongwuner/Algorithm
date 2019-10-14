@@ -5,12 +5,14 @@
 ![](https://user-images.githubusercontent.com/16419202/62713171-3fed6180-ba37-11e9-8d20-b108f99c2b9a.PNG)
 
 # A Competition A Week.(19.08~)
+* 삼성 역량test A형 준비중
+- 19.10.12 Codeforce 1st Competition #592 (1/7)
+
 
 # Recently
 - 19.01.20부터 다시 시작. 스터디장.
 - 19.07.15 Code Force(19.08.07 안돼고있음.)
 - 19.10.07부터 다시 시작
-- 19.10.12 Codeforce 1st Competition #592 (1/7)
 
 # History
 - 14.03 C언어 공부시작
