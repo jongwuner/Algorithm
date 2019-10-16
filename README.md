@@ -31,3 +31,7 @@
 - 17.03 알고리즘설계 수강
 - 17.07 알고리즘설계 A+🎖
 - 17.09 ACM-ICPC 금상🏆
+
+## Reference
+- 블로그 모음집 : https://www.acmicpc.net/board/view/9820
+- 공부법 1 : https://baactree.tistory.com/notice/16
