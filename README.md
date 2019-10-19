@@ -1,5 +1,5 @@
 # 🏆ps-study 
-- 각오가 남다르다:orange: 코딩테스트를 휩쓸어 취업을 쉽게 혹은 할 수도 있는 창업을 위하여, 내 가치를 높이자
+- 각오가 남다르다:orange: 코딩테스트를 휩쓸어 취업을 쉽게 혹은 할 수도 있는 창업을 위하여, 내 가치를 높이자.
 
 # Reviews BOJ Codes.
 ![](https://user-images.githubusercontent.com/16419202/62713171-3fed6180-ba37-11e9-8d20-b108f99c2b9a.PNG)
