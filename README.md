@@ -34,4 +34,5 @@
 
 ## Reference
 - 블로그 모음집 : https://www.acmicpc.net/board/view/9820
+- 목적에 맞는 공부 : https://koosaga.com/217
 - 공부법 1 : https://baactree.tistory.com/notice/16
