@@ -4,9 +4,10 @@
 # Reviews BOJ Codes.
 ![](https://user-images.githubusercontent.com/16419202/62713171-3fed6180-ba37-11e9-8d20-b108f99c2b9a.PNG)
 
-# A Competition A Week.(19.08~)
+# A Competition A Week.(19.10~)
 * 삼성 역량test A형 준비중
 - 19.10.12 Codeforce 1st Competition #592 (1/7)
+- 19.10.20 Codeforce 2nd Competition #594 (2/7) third problem try
 
 
 # Recently
