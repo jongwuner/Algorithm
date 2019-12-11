@@ -42,3 +42,4 @@
 - 목적에 맞는 공부 : https://koosaga.com/217
 - 공부법 1 : https://baactree.tistory.com/notice/16
 - 공부법 2 : https://www.acmicpc.net/board/view/19849
+- 목차 및 Intoduce : https://ryute.tistory.com/33
