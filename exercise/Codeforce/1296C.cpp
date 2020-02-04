@@ -13,9 +13,9 @@ int main() {
 		M.clear();
 		bool fg = false;
 		now = { 0, 0 };
-		ans = { -1e8, -1e8 };
+		ans = { -1e8, 1e8 };
 		M[now] = 0;
- 
+
 		scanf("%d", &N);
 		cin >> S;
 		for (int i = 0; i < N; i++) {
@@ -23,37 +23,41 @@ int main() {
 				now.first--;
 				if (M.find(now) != M.end()) {
 					fg = true;
-					ans = { M[now], i + 1 };
-					break;
+					if (i + 1 - M[now] < ans.second - ans.first) {
+						ans = { M[now], i + 1 };
+					}
 				}
-				else M[now] = i + 1;
+				M[now] = i + 1;
 			}
 			else if (S[i] == 'R') {
 				now.first++;
 				if (M.find(now) != M.end()) {
 					fg = true;
-					ans = { M[now], i + 1 };
-					break;
+					if (i + 1 - M[now] < ans.second - ans.first) {
+						ans = { M[now], i + 1 };
+					}
 				}
-				else M[now] = i + 1;
+				M[now] = i + 1;
 			}
 			else if (S[i] == 'U') {
 				now.second++;
 				if (M.find(now) != M.end()) {
 					fg = true;
-					ans = { M[now], i + 1 };
-					break;
+					if (i + 1 - M[now] < ans.second - ans.first) {
+						ans = { M[now], i + 1 };
+					}
 				}
-				else M[now] = i + 1;
+				M[now] = i + 1;
 			}
 			else if (S[i] == 'D') {
 				now.second--;
 				if (M.find(now) != M.end()) {
 					fg = true;
-					ans = { M[now], i + 1 };
-					break;
+					if (i + 1 - M[now] < ans.second - ans.first) {
+						ans = { M[now], i + 1 };
+					}
 				}
-				else M[now] = i + 1;
+				M[now] = i + 1;
 			}
 		}
 		if (fg) {
