@@ -18,7 +18,7 @@ int query(int L, int R, int nodeIdx, int nodeL, int nodeR) {
 	return query(L, R, 2 * nodeIdx, nodeL, mid) + query(L, R, 2 * nodeIdx + 1, mid + 1, nodeR);
 }
 int main() {
-	scanf("%d%d", &N, &M);
+	cin >> N;
 	while (segSize < N) segSize = segSize << 1;
 	seg.resize(2 * segSize);
 	for (int i = 0, opt; i < M; i++) {
